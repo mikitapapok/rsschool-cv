@@ -12,7 +12,7 @@
 6. I am a student at TeachMeSkills programming school (FrondEnd Developer).<br>
 [TMS shop](https://github.com/FE38-Front-End/Mikita_Papok.git)<br>
 [First React project task](https://github.com/FE38-Front-End/MikitaPapok_react.git)
-7.    - 2008-2011 College of Electronic(photolithography operator)
-      - 2011-2016 International Sakharov Environmental Institute of Belarusian State University(Sabbatical)  
-      - 2020-2021 TeachMeSkills (Front End Developer)
+7.    - 2008-2011 College of Electronic(photolithography operator)<br>
+      - 2011-2016 International Sakharov Environmental Institute of Belarusian State University(Sabbatical)  <br>
+      - 2020-2021 TeachMeSkills (Front End Developer)<br>
 8. I lern English with my tutor so i can't rate my english level untill i pass the final exam. 
