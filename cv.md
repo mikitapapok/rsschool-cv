@@ -13,7 +13,7 @@
 [TMS shop](https://github.com/FE38-Front-End/Mikita_Papok.git)<br>
 [First React project task](https://github.com/FE38-Front-End/MikitaPapok_react.git)
 7. 
-   1. 2008-2011 College of Electronic(photolithography operator)
-   2. 2011-2016 International Sakharov Environmental Institute of Belarusian State University(Sabbatical)  
-   3. 2020-2021 TeachMeSkills (Front End Developer)
+   - 2008-2011 College of Electronic(photolithography operator)
+   - 2011-2016 International Sakharov Environmental Institute of Belarusian State University(Sabbatical)  
+   - 2020-2021 TeachMeSkills (Front End Developer)
 8. I lern English with my tutor so i can't rate my english level untill i pass the final exam. 
